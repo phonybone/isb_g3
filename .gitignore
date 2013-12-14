@@ -1,0 +1,9 @@
+*.log
+out*
+profile*
+*.pyc
+*.conf
+logfile
+*.gz
+OverflowTable*
+fodder.txt*
